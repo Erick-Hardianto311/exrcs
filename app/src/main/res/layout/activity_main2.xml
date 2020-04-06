@@ -38,7 +38,7 @@
                 android:layout_margin="10dp"
                 android:id="@+id/gmbrpersegi"
                 android:text="persegi"
-                android:background="@drawable/Persegi">
+                android:background="@drawable/persegi">
             </Button>
 
             <Button
@@ -47,7 +47,7 @@
                 android:layout_margin="10dp"
                 android:id="@+id/gmbrppanjang"
                 android:text="P.Panjang"
-                android:background="@drawable/PersegiPanjang">
+                android:background="@drawable/persegipanjang">
             </Button>
 
             <Button
@@ -56,7 +56,7 @@
                 android:layout_margin="10dp"
                 android:id="@+id/gmbrsegitiga"
                 android:text="Segitiga"
-                android:background="@drawable/Segitiga">
+                android:background="@drawable/segitiga">
             </Button>
 
             <Button
@@ -65,7 +65,7 @@
                 android:layout_margin="10dp"
                 android:id="@+id/gmbrlingkaran"
                 android:text="Lingkaran"
-                android:background="@drawable/Lingkaran">
+                android:background="@drawable/lingkaran">
             </Button>
 
         </LinearLayout>
